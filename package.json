@@ -1,0 +1,34 @@
+{
+  "name": "keboola-wr-netsuite",
+  "version": "0.1.0",
+  "description": "A Netsuite writer for Keboola Connection",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radektomasek/keboola-wr-netsuite.git"
+  },
+  "keywords": [
+    "Keboola",
+    "Connect",
+    "Netsuite",
+    "Javascript"
+  ],
+  "author": "Radek Tomasek <radek.tomasek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radektomasek/keboola-wr-netsuite/issues"
+  },
+  "homepage": "https://github.com/radektomasek/keboola-wr-netsuite#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-0": "^6.22.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "lodash": "^4.17.4"
+  }
+}
